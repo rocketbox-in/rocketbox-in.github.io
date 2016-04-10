@@ -12,7 +12,7 @@ email: talent@rocketbox.in
 description: > # this means to ignore newlines until "baseurl:"
   Code - OSS - Culture - Insights
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.rocketbox.in" # the base hostname & protocol for your site
+url: "http://engineering.rocketbox.in" # the base hostname & protocol for your site
 twitter_username: rocketboxindia
 github_username:  rocketbox-in
 
